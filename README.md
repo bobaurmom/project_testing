@@ -5,7 +5,7 @@
 2. **Initialize Project**
     - Open terminal and run:
       npm init -y
-3. install Dependencies
+3. **install Dependencies**
     - Run the following command to install required packages plz
       npm install express bcrypt swagger-ui-express swagger-jsdoc
 4. Create .env File
@@ -19,4 +19,5 @@
 8. Run the Server
     - Start your server with:
       node server.js
+
 
