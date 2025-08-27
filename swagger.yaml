@@ -17,10 +17,10 @@ paths:
               properties:
                 id:
                   type: integer
-                  example: 1
+                  example: 4
                 username:
                   type: string
-                  example: "boba"
+                  example: "bob"
                 password:
                   type: string
                   example: "bobaurmom123"
